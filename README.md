@@ -7,7 +7,9 @@ Features
 Book Management: Add, edit, and remove books in the library.
 
 User Management: Register users, track their borrowings, and handle returns.
+
 Borrowing System: Allows users to borrow and return books while maintaining history.
+
 Admin Interface: Admin users can manage library inventory, users, and borrowings.
 
 Tech Stack
