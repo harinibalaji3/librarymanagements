@@ -3,7 +3,9 @@ Library Management System
 A simple and efficient Library Management System built using Java and MySQL. This system allows users to manage books, track borrowings, and maintain records of library activities.
 
 Features
+
 Book Management: Add, edit, and remove books in the library.
+
 User Management: Register users, track their borrowings, and handle returns.
 Borrowing System: Allows users to borrow and return books while maintaining history.
 Admin Interface: Admin users can manage library inventory, users, and borrowings.
